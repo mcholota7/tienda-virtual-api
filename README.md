@@ -20,4 +20,5 @@ Se visualiza las funciones que contienen las conexiones a Postgres y MongoDB.
 ![alt text](https://github.com/mcholota7/tienda-virtual-api/blob/main/imagenesBackend/funcionesConectarBD.JPG)
 
 El server.js es la parte principal en donde se configura y se inicializan las conexiones a las bases de datos, middlewares y rutas.
+
 ![alt text](https://github.com/mcholota7/tienda-virtual-api/blob/main/imagenesBackend/server.JPG)
